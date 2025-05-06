@@ -1,3 +1,5 @@
+USED THIS DATASET:     
+https://github.com/Kammara-Kaveri/elevatelabs/blob/main/house-prices-advanced-regression-techniques.zip
 Task 3: Linear Regression
 Objective:
 To implement and evaluate a linear regression model to predict a continuous target variable based on input features.
