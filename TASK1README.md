@@ -1,3 +1,5 @@
+USED THIS DATASET LINK:
+                      https://github.com/Kammara-Kaveri/elevatelabs/blob/main/train.csv
  Task 1: Data Preprocessing
  Objective:
 To clean and prepare raw data so it's suitable for machine learning models. This includes handling missing values, encoding categorical features, and scaling numerical data.
